@@ -1,6 +1,6 @@
 # __shellTemplate
 
-[ドキュメント](./document/README.md)
+[ドキュメント](./Document/README.md)
 
 ## 概要
 
